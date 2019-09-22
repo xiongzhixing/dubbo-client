@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="dubbo-core:war">
-    <output-path>$PROJECT_DIR$/dubbo-core/target</output-path>
-    <root id="archive" name="dubbo-core-1.0-SNATSHOP.war">
-      <element id="artifact" artifact-name="dubbo-core:war exploded" />
-    </root>
-  </artifact>
-</component>
